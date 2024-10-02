@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "assets/"
+  ],
+  "attachmentFolderPath": "assets/images",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}

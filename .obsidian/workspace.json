@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2c83d47cb7f4c6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea437f159d310e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3c35feaf3686f7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Go Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d659e8c57e44e52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/AVL 树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86ddf109fdbb245f",
+    "type": "split",
+    "children": [
+      {
+        "id": "390b2f9e1ecbbee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1d1985f9eae4c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b7cac3959d0c9a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "递归",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35176fce84773d29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b230b19686bb086c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "435f030cf031a208",
+    "type": "split",
+    "children": [
+      {
+        "id": "a01564cc301a5393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8e4ed8b3c942eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构与算法/AVL 树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7162dc6becd330d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构与算法/AVL 树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43158844708c9ab4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bc391d535a0066a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构与算法/AVL 树.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-file-cleaner:清理文件": false
+    }
+  },
+  "active": "d659e8c57e44e52f",
+  "lastOpenFiles": [
+    "assets/Excalidraw/Drawing 2024-07-29 16.45.22.excalidraw.md",
+    "数据结构与算法/AVL 树.md",
+    "assets/Excalidraw/Drawing 2024-07-29 16.38.52.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 16.30.23.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 16.20.04.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 16.00.00.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 15.41.05.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 15.26.00.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 11.14.04.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 11.01.48.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 10.47.18.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-29 10.29.09.excalidraw.md",
+    "assets/images/Pasted image 20240729013445.png",
+    "assets/images/Pasted image 20240729011221.png",
+    "assets/images/Pasted image 20240728231121.png",
+    "assets/Excalidraw/Drawing 2024-07-28 20.26.24.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-28 20.19.42.excalidraw.md",
+    "golang/Go Home.md",
+    "assets/tldraw/Tldraw 2024-07-29 00.30.32.md",
+    "数据结构与算法/二叉查找树.md",
+    "assets/Excalidraw/Drawing 2024-07-28 17.15.27.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-28 16.44.03.excalidraw.md",
+    "数据结构与算法/树与二叉树.md",
+    "assets/Excalidraw/Drawing 2024-06-21 10.43.23.excalidraw.md",
+    "数据结构与算法/线性表.md",
+    "assets/Excalidraw/Drawing 2024-08-30 22.31.19.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-28 15.16.38.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-28 14.14.23.excalidraw.md",
+    "assets/Excalidraw/Drawing 2024-07-28 13.59.35.excalidraw.md",
+    "assets/images/Pasted image 20240710172956.png",
+    "assets/images/Pasted image 20240710165957.png",
+    "assets/images/Pasted image 20240916195324.png",
+    "assets/images/Pasted image 20240916174020.png",
+    "assets/images/Pasted image 20240915174204.png",
+    "assets/images/Pasted image 20240915171407.png",
+    "assets/images/Pasted image 20240915171312.png",
+    "前端",
+    "CPP",
+    "pydev",
+    "Linux",
+    "数据结构与算法",
+    "python",
+    "计算机系统/硬件",
+    "数据库/MongoDB",
+    "数据库/SQL",
+    "数据库/PosetgreSQL"
+  ]
+}
